@@ -1,0 +1,50 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook conversion output
+*.nbconvert/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environments (Python venv)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+
+# Conda environments
+conda-meta/
+*.conda
+*.lock
+
+# Environment configuration files
+*.env
+*.local
+
+# Pip logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Jupyter Lab and extensions
+.jupyter/
+.lab/
+node_modules/
+
+# IDE and editor settings
+.vscode/
+.idea/
